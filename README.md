@@ -1,4 +1,4 @@
-## Cyberpunk Password Generator
+## Password Generator
 
 A stylish password generator with a cyberpunk-inspired GUI built using Flet. This project allows you to generate secure, random passwords of varying lengths and save them to a .docx file for future use. It combines functionality with an aesthetic, futuristic design.
 
