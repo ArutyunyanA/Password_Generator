@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/cyberpunk-password-generator.git
 
 	2.	Navigate to the project folder:
 ```bash
-cd cyberpunk-password-generator
+cd password-generator
 ```
 
 	3.	Install dependencies:
@@ -43,8 +43,8 @@ python app.py
 ```
 # Dependencies
 ```bash
-	pip install flet
-  pip install python-docx
+pip install flet
+pip install python-docx
 ```
 
 # Preview
