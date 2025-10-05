@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/cyberpunk-password-generator.git
 
 2.	Navigate to the project folder:
 ```bash
-cd password-generator
+cd password_generator
 ```
 
 3.	Install dependencies:
